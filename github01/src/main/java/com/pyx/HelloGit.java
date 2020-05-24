@@ -11,5 +11,6 @@ public class HelloGit {
         System.out.println("解决冲突2");
         System.out.println("在线更新");
         System.out.println("克隆项目改1");
+        System.out.println("测试SSH");
     }
 }
